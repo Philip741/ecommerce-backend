@@ -22,7 +22,15 @@
    ## Description
    An api for a simulated ecommerce application   
    ## Instructions
-   Clone the repo and use npm i to install the necessary dependencies. 
+   Clone the repo and use npm i to install the necessary dependencies
+
+   You will need a mysql database to connect to
+   
+   Create and setup a .env file in the root of the project directory
+   
+   Set user , password and database name in the file
+   
+   You can use the data in the seeds directory to prepopulate the database for testing
    ## Usage
    Once setup you can utilize a REST client like insomnia to access the API
 
@@ -49,7 +57,7 @@
    
    ## Video
    Link Showing operation of the API
-   
+
    [API Video](https://drive.google.com/file/d/1lFQyRR-jI0G2SByFcft-v095h_c4cWNI/view?usp=sharing)
    
    ## Questions
